@@ -15,6 +15,7 @@ public:
         }
         return dp[i]=ans;
     }
+
     int minExtraChar(string s, vector<string>& d) {
         for(auto i : d)m[i]++;
         vector<int>dp(s.size(),-1);
