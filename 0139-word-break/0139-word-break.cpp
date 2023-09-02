@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-bool solve(int i,string s, set<string>& wd,vector<int>& dp) {
+bool solve(int i,string& s, set<string>& wd,vector<int>& dp) {
     if(i>=s.size()) return true;
     if(dp[i]!=-1)   return dp[i];
     string t="";
