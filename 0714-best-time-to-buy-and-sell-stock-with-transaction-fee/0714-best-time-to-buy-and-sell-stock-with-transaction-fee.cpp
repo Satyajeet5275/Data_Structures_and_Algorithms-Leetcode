@@ -1,6 +1,6 @@
 class Solution {
 public:
-  int solve(int ind,int buy,vector<int>& arr,vector<vector<int>>& dp,int fee)
+  int solve(int ind,int buy,vector<int>& arr,vector<vector<int>>& dp,int& fee)
 {
     if(ind>=arr.size()) return 0;
     if(dp[ind][buy]!=-1) return dp[ind][buy];
