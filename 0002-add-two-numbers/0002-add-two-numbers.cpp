@@ -60,7 +60,6 @@ public:
             temp->next=newNode;
             temp=newNode;
             if(l1!=NULL)   l1=l1->next;
-
             if(l2!=NULL)  l2=l2->next;
         }
 
