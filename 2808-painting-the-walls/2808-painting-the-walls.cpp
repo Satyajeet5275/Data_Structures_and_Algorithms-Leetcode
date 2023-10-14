@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int ind,int rem,int n,vector<int>& cost, vector<int>& time,vector<vector<int>>& dp){
+    int solve(int ind,int rem,int& n,vector<int>& cost, vector<int>& time,vector<vector<int>>& dp){
         if(rem <= 0) return 0;
         if(ind>=n) return 1e9;
         if(dp[ind][rem]!=-1) return dp[ind][rem];
