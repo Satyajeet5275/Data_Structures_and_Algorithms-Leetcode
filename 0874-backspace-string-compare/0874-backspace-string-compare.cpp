@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string solve(string s){
+    string solve(string& s){
         int n=s.length();
         string ans="";
         for(int i=0;i<n;i++){
