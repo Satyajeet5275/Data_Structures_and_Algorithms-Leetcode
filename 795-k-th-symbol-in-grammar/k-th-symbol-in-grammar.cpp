@@ -1,25 +1,24 @@
+//replace each occurrence of 0 with 01, and each occurrence of 1 with 10.
+//see the pattern
+// | is used as mid point
+//N=1 [0]
+//N=2 [0 | 1]  //first half is copy of N-1 and second half is complement of N-1
+//N=3 [0 1 | 1 0]
+//N=4 [0 1 1 0 | 1 0 0 1]
+//...
 class Solution {
 public:
-    int kthGrammar(int n, int k) {
-        // Initialize a flag to track if the values of k and first element are the same.
-        bool areValuesSame = true; 
-
-        // Calculate the total number of elements in the nth row, which is 2^(n-1).
-        n = pow(2, n - 1);
-
-        // Continue until we reach the first row.
-        while (n != 1) {
-            // Halve the number of elements in the row.
-            n /= 2;
-
-            // If k is in the second half of the row, adjust k and toggle the flag.
-            if (k > n) {
-                k -= n;
-                areValuesSame = !areValuesSame;
-            }
+    int kthGrammar(int N, int K) {
+	
+        if(N==1 && K==1) return 0;
+        
+        int mid=pow(2,N-1)/2;
+        
+        if(K<=mid){
+            return kthGrammar(N-1, K);
+        }else{
+            return !(kthGrammar(N-1, K-mid));
         }
-
-        // Return 0 if the flag indicates that the values are the same; otherwise, return 1.
-        return ((areValuesSame) ? 0 : 1) ;
+		
     }
 };
