@@ -11,8 +11,6 @@ public:
     static bool comparator(int a,int b){
         int aBits=countBits(a);
         int bBits=countBits(b);
-        cout<<a<<"->"<<aBits<<endl;
-        cout<<b<<"->"<<bBits<<endl;
         if(aBits==bBits)  return (a<b);
         return (aBits<bBits);
     }
