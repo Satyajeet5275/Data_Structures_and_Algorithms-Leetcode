@@ -7,7 +7,6 @@ public:
             reach[i]=ceil((float)dist[i]/(float)speed[i]);
         }
         sort(reach.begin(),reach.end());
-        for(int i=0;i<n;i++) cout<<reach[i]<<" ";
         for(int i=1;i<n;i++){
             if(reach[i]-killed <= 0){
                 break;
