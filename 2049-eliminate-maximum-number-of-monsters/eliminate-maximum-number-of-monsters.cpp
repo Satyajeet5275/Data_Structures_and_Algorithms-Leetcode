@@ -14,28 +14,6 @@ public:
             }
             else killed++;
         }
-        // cout<<ceil((float)5/(float)3);
         return killed;
     }
 };
-
-//  bool flag=true;
-//         while(flag){
-//             for(int i=killed;i<n;i++){
-//                 if(dist[i]==0){
-//                     flag=false;
-//                     // cout<<"Breaked";
-//                     break;
-//                 }
-//                 dist[i]=dist[i]-speed[i];
-//                 if(dist[i]==0){
-//                     killed++;
-//                     flag=false;
-//                     // cout<<"Breaked";
-//                     break;
-//                 }
-//             }
-//             if(flag){
-//                 killed++;
-//             }
-//         }  
