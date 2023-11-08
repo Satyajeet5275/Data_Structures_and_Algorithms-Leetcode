@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time">Determine if a Cell Is Reachable at a Given Time</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given four integers <code>sx</code>, <code>sy</code>, <code>fx</code>, <code>fy</code>, and a <strong>non-negative</strong> integer <code>t</code>.</p>
+<h2><a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time">3056. Determine if a Cell Is Reachable at a Given Time</a></h2><h3>Medium</h3><hr><p>You are given four integers <code>sx</code>, <code>sy</code>, <code>fx</code>, <code>fy</code>, and a <strong>non-negative</strong> integer <code>t</code>.</p>
 
 <p>In an infinite 2D grid, you start at the cell <code>(sx, sy)</code>. Each second, you <strong>must</strong> move to any of its adjacent cells.</p>
 
