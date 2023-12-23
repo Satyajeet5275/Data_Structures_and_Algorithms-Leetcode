@@ -12,20 +12,20 @@
  */
 class Solution {
 public:
-    void inOrder(TreeNode* root, int lvl, vector<int>& ans) {
+    void preRightOrder(TreeNode* root, int lvl, vector<int>& ans) {
         if (root == NULL)
             return;
 
         if (lvl == ans.size()) {
             ans.push_back(root->val);
         }
-        inOrder(root->right, lvl + 1, ans);
-        inOrder(root->left, lvl + 1, ans);
+        preRightOrder(root->right, lvl + 1, ans);
+        preRightOrder(root->left, lvl + 1, ans);
     }
 
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
-        inOrder(root, 0, ans);
+        preRightOrder(root, 0, ans);
         return ans;
     }
 };
