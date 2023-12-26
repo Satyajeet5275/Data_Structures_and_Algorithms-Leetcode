@@ -12,7 +12,7 @@ public:
         return dp[i][target]=pick;
     }
     int numRollsToTarget(int n, int k, int target) {
-        vector<vector<int>> dp(n+1,vector<int>(target+1,-1));
+        vector<vector<int>> dp(n,vector<int>(target+1,-1));
         return solve(0,target,n,k,dp);
     }
 };
