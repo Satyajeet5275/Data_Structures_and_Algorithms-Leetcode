@@ -14,9 +14,8 @@ public:
         if(!head || !head->next || !head->next->next) return head;
         ListNode *odd=head;
         ListNode *even=head->next;
-        ListNode *temp;
         while(even!=NULL && even->next!=NULL){
-            temp=even->next->next;
+            ListNode *temp=even->next->next;
             even->next->next=odd->next;
             odd->next=even->next;
             even->next=temp;
