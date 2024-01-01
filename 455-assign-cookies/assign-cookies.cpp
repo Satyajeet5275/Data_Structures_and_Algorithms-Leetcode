@@ -12,11 +12,8 @@ public:
             else if(j<s.size() && g[i]>=s[j]){
                 j++;
                 i--;
-            }
-            // else 
+            } 
         }
         return count;
     }
 };
-// 7 8 9 10
-// 5 6 7 8
