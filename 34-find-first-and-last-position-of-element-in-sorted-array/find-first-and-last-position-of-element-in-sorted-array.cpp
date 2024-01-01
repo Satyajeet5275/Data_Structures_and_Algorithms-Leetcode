@@ -27,8 +27,8 @@ public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int n=nums.size();
         int lower=lowerBound(nums,n,target);
-        int upper=upperBound(nums,n,target);
+        // int upper=upperBound(nums,n,target);
         if(lower==n || nums[lower]!=target) return {-1,-1};
-        return {lower,upper-1};
+        return {lower,upperBound(nums,n,target)-1};
     }
 };
