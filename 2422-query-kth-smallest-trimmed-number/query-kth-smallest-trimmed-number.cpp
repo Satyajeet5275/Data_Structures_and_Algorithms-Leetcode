@@ -8,10 +8,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<digs;j++){
                 string trim=nums[i].substr(j);
-                // stringstream in;
-                // in << trim;
-                // long long int num;
-                // in >> num;
+
                 trimmed[j].push_back({trim,i});
             }
         }
