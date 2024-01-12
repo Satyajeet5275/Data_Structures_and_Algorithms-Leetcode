@@ -12,7 +12,7 @@ public:
         return dp[1000+ind][rem]=(back+forw)%mod;
     }
     int numberOfWays(int startPos, int endPos, int k) {
-        vector<vector<int>> dp(3000,vector<int>(k+1,-1));
+        vector<vector<int>> dp(2001+k,vector<int>(k+1,-1));
         return solve(startPos,k,endPos,dp,k);
     }
 };
