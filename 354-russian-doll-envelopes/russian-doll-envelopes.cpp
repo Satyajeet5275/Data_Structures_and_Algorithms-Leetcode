@@ -14,7 +14,7 @@ public:
     //     if(prev==-1 || env[ind][1]>env[prev][1]) pick=1+solve(ind+1,ind,n,env,dp);
     //     return dp[ind][prev+1]=max(pick,nonpick);
     // }
-    int binarySearch(vector<vector<int>>& env,int& n){
+    int binarySearch(vector<vector<int>>& env,int n){
         if(n==0) return 0;
         vector<int> ans;
         ans.push_back(env[0][1]);
