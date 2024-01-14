@@ -32,6 +32,6 @@ public:
         int n=env.size();
         // vector<vector<int>> dp(env.size()+1,vector<int>(env.size()+1,-1));
         // return solve(0,-1,env.size(),env,dp);
-        return binarySearch(env,n);
+        return binarySearch(env,env.size());
     }
 };
