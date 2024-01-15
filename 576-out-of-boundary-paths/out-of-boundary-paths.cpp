@@ -1,7 +1,7 @@
 class Solution {
 public:
     int mod=1e9+7;
-    int solve(int i,int j,int m,int n,int rem,vector<vector<vector<int>>>& dp){
+    int solve(int i,int j,int& m,int& n,int rem,vector<vector<vector<int>>>& dp){
         if(i<0 || j<0 || i>=m || j>=n ) return 1;
         if(rem==0) return 0;
         if(dp[i][j][rem]!=-1) return dp[i][j][rem];
