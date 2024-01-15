@@ -5,10 +5,10 @@ public:
         if(i<0 || j<0 || i>=m || j>=n ) return 1;
         if(rem==0) return 0;
         if(dp[i][j][rem]!=-1) return dp[i][j][rem];
-        int up=solve(i-1,j,m,n,rem-1,dp)%mod;
-        int down=solve(i+1,j,m,n,rem-1,dp)%mod;
-        int left=solve(i,j-1,m,n,rem-1,dp)%mod;
-        int right=solve(i,j+1,m,n,rem-1,dp)%mod;
+        int up=solve(i-1,j,m,n,rem-1,dp);
+        int down=solve(i+1,j,m,n,rem-1,dp);
+        int left=solve(i,j-1,m,n,rem-1,dp);
+        int right=solve(i,j+1,m,n,rem-1,dp);
         
         return dp[i][j][rem]=(((((up+down)%mod)+left)%mod)+right)%mod;
     }
