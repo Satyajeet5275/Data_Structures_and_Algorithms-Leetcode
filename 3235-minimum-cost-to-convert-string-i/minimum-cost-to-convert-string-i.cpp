@@ -2,11 +2,6 @@ class Solution {
 public:
     long long minimumCost(string src, string target, vector<char>& org, vector<char>& chg, vector<int>& cost) {
         vector<vector<long long>> dist(26,vector<long long>(26,1e9));
-        for(int i=0;i<26;i++){
-                for(int j=0;j<26;j++){
-                    if(i==j) dist[i][j]=0;
-                }
-            }
         for(int i=0;i<chg.size();i++){
             int node1=org[i]-'a';
             int node2=chg[i]-'a';
