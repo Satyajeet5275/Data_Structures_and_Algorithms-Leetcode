@@ -3,7 +3,7 @@ public:
     vector<int> maxSubsequence(vector<int>& nums, int k) {
         vector<int> nums1=nums;
         sort(nums1.rbegin(),nums1.rend());
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         vector<int> ans;
         for(int i=0;i<k;i++){
             mp[nums1[i]]++;
