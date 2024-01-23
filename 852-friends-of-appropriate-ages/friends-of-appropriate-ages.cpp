@@ -1,7 +1,7 @@
 class Solution {
 public:
   int numFriendRequests(vector<int>& ages) {
-    std::sort(ages.begin(), ages.end());
+    sort(ages.begin(), ages.end());
     int n = ages.size(), count = 0;
 
     for (int i = 0; i < n; ++i) {
