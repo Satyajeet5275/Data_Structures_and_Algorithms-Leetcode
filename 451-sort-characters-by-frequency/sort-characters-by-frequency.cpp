@@ -7,7 +7,6 @@ public:
     string frequencySort(string s) {
         vector<pair<int,char>> arr(62,{0,'a'});
         for(auto x:s){
-            cout<<x-'a'<<endl;
             if(x>='a'){
                 arr[x-'a'].first++;
                 arr[x-'a'].second=x;
