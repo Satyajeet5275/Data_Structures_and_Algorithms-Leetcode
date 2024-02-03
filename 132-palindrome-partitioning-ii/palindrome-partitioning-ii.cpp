@@ -11,8 +11,7 @@ public:
     }
     int solve(int ind,string& s, vector<int> &dp){
         if(ind>=s.length()) return 0;
-        if(dp[ind] != -1)
-            return dp[ind];
+        if(dp[ind] != -1)return dp[ind];
 
         int cuts=INT_MAX;
         for(int j=s.length()-1;j>=ind;j--){
