@@ -17,7 +17,7 @@ public:
             return dp[i];
 
         int ans = INT_MAX, mn = INT_MAX;
-        for(int j = i; j < n; j++){
+        for(int j = n - 1; j >=i; j--){
             if(isPalin(i,j,s)){
                 ans = min(ans, 1 + solve(j+1,n,s,dp));
             }
