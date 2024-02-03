@@ -9,24 +9,22 @@ public:
         }
         return 1;
     }
-    int solve(int i,int &n, string& s, vector<int>& dp){
-        if(i>=n){
-            return 0;
-        }
-        if(dp[i]!=-1)
-            return dp[i];
+    int solve(int ind,string& s, vector<int> &dp){
+        if(ind>=s.length()) return 0;
+        if(dp[ind] != -1)
+            return dp[ind];
 
-        int ans = INT_MAX, mn = INT_MAX;
-        for(int j = n - 1; j >=i; j--){
-            if(isPalin(i,j,s)){
-                ans = min(ans, 1 + solve(j+1,n,s,dp));
+        int cuts=INT_MAX;
+        for(int j=s.length()-1;j>=ind;j--){
+            if(isPalin(ind,j,s)){
+                cuts=min(cuts,1+solve(j+1,s,dp));
             }
         }
-        return dp[i] = ans;
+        return dp[ind] = cuts;
     }
     int minCut(string s) {
         int n = s.size();
-        vector<int> dp(n,-1);
-        return solve(0,n,s,dp)-1;
+        vector<int> dp(n, -1);
+        return solve(0,s, dp)-1;
     }
 };
