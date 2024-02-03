@@ -9,7 +9,7 @@ public:
         }
         return 1;
     }
-    int solve(int i,int n, string& s ,  vector<int>& dp){
+    int solve(int i,int &n, string& s, vector<int>& dp){
         if(i>=n){
             return 0;
         }
