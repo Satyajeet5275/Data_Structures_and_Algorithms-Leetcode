@@ -2,8 +2,9 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         map<map<char,int>,vector<string>> mp;
+        map<char,int> tmp;
         for(auto x:strs){
-            map<char,int> tmp;
+            tmp.clear();
             for(auto ch:x) tmp[ch]++;
             mp[tmp].push_back(x);
         }
