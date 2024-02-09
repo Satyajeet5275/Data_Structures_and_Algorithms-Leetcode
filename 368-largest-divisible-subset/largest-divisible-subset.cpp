@@ -6,7 +6,6 @@ public:
             if(curr.size()>ans.size()) ans=curr;
             return ;
         }
-
         if(curr.size()==0){
             curr.push_back(nums[ind]);
             solve(ind+1,nums,curr,dp);
