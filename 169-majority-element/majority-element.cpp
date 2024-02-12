@@ -15,7 +15,6 @@ public:
                 loc=nums[i];
             }
         }
-        
         return loc;
     }
 };
