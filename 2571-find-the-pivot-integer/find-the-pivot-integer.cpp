@@ -8,7 +8,6 @@ public:
             int afterMid=(n*(n+1))/2;
             afterMid-=uptoMid;
             afterMid+=mid;
-            cout<<mid<<" ";
             if(afterMid==uptoMid) return mid;
             else if(afterMid>uptoMid) l=mid+1;
             else h=mid-1;
