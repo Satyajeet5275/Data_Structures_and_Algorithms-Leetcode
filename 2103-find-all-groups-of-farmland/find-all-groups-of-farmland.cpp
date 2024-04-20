@@ -5,7 +5,7 @@ public:
 
     vector<int> dfs(int i, int j, vector<vector<int>>& land, vector<vector<int>>& vis) {
         vis[i][j] = 1;
-        int tx = i, ty = j, bx = i, by = j;
+        int  bx = i, by = j;
         vector<int> tmp; 
         for (int k = 0; k < 4; k++) {
             int nx = i + dx[k];
