@@ -4,15 +4,12 @@ public:
         string pre="";
         int i=0;
         while(word[i]!=ch && i<word.length()){
-            pre.insert(0,""+string(1,word[i]));
-            i++;
+            pre = word[i++] + pre;
         }
         if(i==word.length()) return word;
-        pre.insert(0,""+string(1,word[i]));
-        i++;
+        pre = word[i++] + pre;
         while(i<word.length()){
-            pre+=word[i];
-            i++;
+            pre+=word[i++];
         }
         return pre;
     }
