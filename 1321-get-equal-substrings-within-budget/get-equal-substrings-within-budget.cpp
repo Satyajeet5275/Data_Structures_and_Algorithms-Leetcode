@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool check(int mid,int& cost,vector<int>& pref){
-        
         for(int i=mid;i<pref.size();i++){
             int start=pref[i-mid];
             int req=pref[i]-start;
