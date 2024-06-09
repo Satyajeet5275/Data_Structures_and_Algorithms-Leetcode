@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-total-reward-using-operations-i">Maximum Total Reward Using Operations I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>rewardValues</code> of length <code>n</code>, representing the values of rewards.</p>
+<h2><a href="https://leetcode.com/problems/maximum-total-reward-using-operations-i">3442. Maximum Total Reward Using Operations I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>rewardValues</code> of length <code>n</code>, representing the values of rewards.</p>
 
 <p>Initially, your total reward <code>x</code> is 0, and all indices are <strong>unmarked</strong>. You are allowed to perform the following operation <strong>any</strong> number of times:</p>
 
