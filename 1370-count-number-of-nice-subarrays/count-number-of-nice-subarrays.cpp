@@ -1,24 +1,23 @@
 class Solution {
 public:
-    int subArray(vector<int>& nums, int k) {
-        int count = 0, ans = 0, start = 0, end = 0;
-        int n = nums.size();
-        while(end<n){
-            if(nums[end]%2==1){
-                count++;
-            }
-            while(count>k){
-                if(nums[start]%2==1){
-                    count--;
-                }
-                start++;
-            }
-            ans += end-start+1;
-            end++;
-        }
-        return ans;
-    }
     int numberOfSubarrays(vector<int>& nums, int k) {
-      return subArray(nums, k) - subArray(nums, k - 1);
+        unordered_map<int,int>mp;
+        // Replace odd with 1 and even with 0
+        for(auto &num:nums)
+            if(num%2)
+                num=1;
+            else 
+                num=0;
+        mp[0]=1;
+        int sum=0;
+        int count=0;
+        for(auto num:nums)
+        {
+            sum+=num;
+            count+=mp[sum-k];
+            mp[sum]++;
+        }
+        return count;
     }
+    
 };
