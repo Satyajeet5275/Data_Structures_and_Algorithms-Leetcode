@@ -2,7 +2,6 @@ class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
         unordered_map<int,int>mp;
-        // Replace odd with 1 and even with 0
         for(auto &num:nums)
             if(num%2)
                 num=1;
