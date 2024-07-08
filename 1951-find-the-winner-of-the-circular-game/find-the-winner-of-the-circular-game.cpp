@@ -2,21 +2,18 @@ class Solution {
 public:
     int findTheWinner(int n, int k) {
         queue<int> q;
-        int backup=k;
         for(int i=1;i<=n;i++){
             q.push(i);
         }
-        while(q.size()>1){
-            if(k==1){
-                k=backup;
+        while(q.size()!=1){
+            int x=k;
+            while(x>1){
+                int r=q.front();
                 q.pop();
+                q.push(r);
+                x--;
             }
-            else{
-                k--;
-                int ele=q.front();
-                q.pop();
-                q.push(ele);
-            }
+            q.pop();
         }
         return q.front();
     }
