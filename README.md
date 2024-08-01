@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
