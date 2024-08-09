@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0412-fizz-buzz) |
+| [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [2645-pass-the-pillow](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Dynamic Programming
