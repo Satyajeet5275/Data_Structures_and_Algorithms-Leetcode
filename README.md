@@ -108,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -165,4 +167,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
