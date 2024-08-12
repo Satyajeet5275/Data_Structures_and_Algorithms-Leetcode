@@ -14,7 +14,6 @@ public:
             }
         }
     }
-    
     int add(int val) {
         if (pq.size() < k) {
                 pq.push(val);
