@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(int i,int target,vector<int> &ds,vector<vector<int>> &ans,vector<int> &arr)
+void solve(int i,int target,vector<int> &ds,vector<vector<int>> &ans,vector<int> &arr)
 {
     if(target==0)
     {
