@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0412-fizz-buzz) |
+| [0650-2-keys-keyboard](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [2645-pass-the-pillow](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2645-pass-the-pillow) |
 ## String
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
