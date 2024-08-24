@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii">Maximum Value Sum by Placing Three Rooks II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given a <code>m x n</code> 2D array <code>board</code> representing a chessboard, where <code>board[i][j]</code> represents the <strong>value</strong> of the cell <code>(i, j)</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii">3542. Maximum Value Sum by Placing Three Rooks II</a></h2><h3>Hard</h3><hr><p>You are given a <code>m x n</code> 2D array <code>board</code> representing a chessboard, where <code>board[i][j]</code> represents the <strong>value</strong> of the cell <code>(i, j)</code>.</p>
 
 <p>Rooks in the <strong>same</strong> row or column <strong>attack</strong> each other. You need to place <em>three</em> rooks on the chessboard such that the rooks <strong>do not</strong> <strong>attack</strong> each other.</p>
 
