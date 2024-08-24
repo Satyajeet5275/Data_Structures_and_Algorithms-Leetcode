@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Greedy
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -228,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 <!---LeetCode Topics End-->
