@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2846-robot-collisions) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
