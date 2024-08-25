@@ -21,7 +21,7 @@ void postOrder(TreeNode *root,vector<int>& ans)
 }
 
     vector<int> postorderTraversal(TreeNode* root) {
-                vector<int> ans;
+        vector<int> ans;
         postOrder(root,ans);
         return ans;
     }
