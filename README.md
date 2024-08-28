@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 | [3542-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3542-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Dynamic Programming
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 ## Design
 |  |
 | ------- |
