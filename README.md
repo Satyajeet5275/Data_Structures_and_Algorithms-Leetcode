@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0412-fizz-buzz) |
 | [0921-spiral-matrix-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1803-average-waiting-time) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2645-pass-the-pillow) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
