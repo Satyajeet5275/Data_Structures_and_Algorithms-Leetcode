@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 ## Matrix
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 ## Design
 |  |
