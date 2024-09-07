@@ -16,25 +16,26 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
     ListNode* first;
-    bool check(ListNode* head, TreeNode* root){
-        if(!head) return true;
-        if(!root) return false;
-        bool nxt,curr=0;
-        if(head->val==root->val){
-            nxt=check(head->next,root->left) || check(head->next,root->right);
-            if(nxt) return true;
+    bool check(ListNode* head, TreeNode* root) {
+        if (!head)  return true;
+        if (!root)  return false;
+        bool nxt;
+        if (head->val == root->val) {
+            nxt = check(head->next, root->left) || check(head->next, root->right);
+            if (nxt)   return true;
         }
-        if(head==first) curr=check(first,root->left) || check(first,root->right);
-        return curr;
+        if (head == first) return check(first, root->left) || check(first, root->right);
+        return false;
     }
     bool isSubPath(ListNode* head, TreeNode* root) {
-        first=head;
-        return check(head,root);
+        first = head;
+        return check(head, root);
     }
 };
