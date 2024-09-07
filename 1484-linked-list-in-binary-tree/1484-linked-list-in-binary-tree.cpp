@@ -31,7 +31,7 @@ public:
             nxt = check(head->next, root->left) || check(head->next, root->right);
             if (nxt)   return true;
         }
-        if (head == first) return check(first, root->left) || check(first, root->right);
+        if (head == first)  return check(first, root->left) || check(first, root->right);
         return false;
     }
     bool isSubPath(ListNode* head, TreeNode* root) {
