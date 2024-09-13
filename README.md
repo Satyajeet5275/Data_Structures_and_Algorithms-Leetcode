@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Enumeration
