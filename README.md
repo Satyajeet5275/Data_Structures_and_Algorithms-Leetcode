@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
