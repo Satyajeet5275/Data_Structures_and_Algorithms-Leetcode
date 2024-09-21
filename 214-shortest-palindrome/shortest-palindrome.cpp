@@ -1,26 +1,31 @@
 class Solution {
 public:
-    string shortestPalindrome(string s) {
-        const int n = s.size();
-        int i = 0;
-        for (int j=n-1; j>= 0; j--) {
-            while (j>=0 && s[i] == s[j])
-                i++, j--;
+    string shortestPalindrome(string str) {
+        string org=str;
+        reverse(str.begin(),str.end());
+        string s=org+"*"+str;
+        int i=0,j=1;
+        int n=str.size();
+        vector<int> lps(2*n+1);
+        while(j<s.size()){
+            if(s[i]==s[j]){
+                lps[j]=i+1;
+                i++;
+                j++;
+            }
+            if(j==s.size()) break;
+            if(s[i]!=s[j]){
+                if(i>0){
+                    i=lps[i-1];
+                }
+                else{
+                    lps[j]=0;
+                    j++;
+                }
+            }
         }
-        if (i==n) //palindrome early stop
-            return s;
-        string sub= s.substr(i), remain_rev=sub;
-        reverse(remain_rev.begin(), remain_rev.end());
-        return remain_rev + shortestPalindrome(s.substr(0, i)) + sub;
+        int diff=n-lps[2*n];
+        string ans=str.substr(0,diff)+org;
+        return ans;
     }
 };
-
-
-
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
