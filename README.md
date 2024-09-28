@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0859-design-circular-deque](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
