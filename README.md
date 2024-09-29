@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
