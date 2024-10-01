@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k">1620. Check If Array Pairs Are Divisible by k</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>arr</code> of even length <code>n</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k">Check If Array Pairs Are Divisible by k</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an array of integers <code>arr</code> of even length <code>n</code> and an integer <code>k</code>.</p>
 
 <p>We want to divide the array into exactly <code>n / 2</code> pairs such that the sum of each pair is divisible by <code>k</code>.</p>
 
