@@ -6,10 +6,8 @@ public:
 
         for(auto x:arr){
             int rem=(x%k+k)%k;
-            if(rem==0){
-                if(mp[rem]%2==1)    return false;
-            } 
-            else if(mp[rem]!=mp[k-rem]) return false;
+            if(rem==0 && mp[rem]%2==1) return false;
+            else if(rem!=0 && mp[rem]!=mp[k-rem]) return false;
         }
         return true;
     }
