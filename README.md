@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
