@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
