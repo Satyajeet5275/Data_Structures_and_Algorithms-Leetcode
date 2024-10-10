@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
