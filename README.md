@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2155-find-missing-observations) |
