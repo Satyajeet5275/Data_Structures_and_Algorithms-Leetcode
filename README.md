@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
