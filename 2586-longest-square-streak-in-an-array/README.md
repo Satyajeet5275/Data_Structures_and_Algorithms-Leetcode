@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-square-streak-in-an-array">2586. Longest Square Streak in an Array</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. A subsequence of <code>nums</code> is called a <strong>square streak</strong> if:</p>
+<h2><a href="https://leetcode.com/problems/longest-square-streak-in-an-array">Longest Square Streak in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>. A subsequence of <code>nums</code> is called a <strong>square streak</strong> if:</p>
 
 <ul>
 	<li>The length of the subsequence is at least <code>2</code>, and</li>
