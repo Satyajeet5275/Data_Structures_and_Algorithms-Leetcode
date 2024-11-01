@@ -8,8 +8,8 @@ public:
                cont++;
                i++;
             }
-            i=start;
             s.erase(start,cont);
+            i=start;
         }
         return s;
     }
