@@ -6,7 +6,7 @@ private:
         while(n>0){
             if(n & 1 == 1) mp[loc]++;
             loc*=2;
-            n=n>>1;
+            n>>=1;
         }
     }
 public:
@@ -16,7 +16,7 @@ public:
         for(int i=0;i<n;i++){
             countSetBits(nums[i]);
         }
-        for(auto x:mp){
+        for(pair<int,int> x:mp){
             maxi=max(maxi,x.second);
         }
         return maxi;
