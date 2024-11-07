@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero">2356. Largest Combination With Bitwise AND Greater Than Zero</a></h2><h3>Medium</h3><hr><p>The <strong>bitwise AND</strong> of an array <code>nums</code> is the bitwise AND of all integers in <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero">Largest Combination With Bitwise AND Greater Than Zero</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>The <strong>bitwise AND</strong> of an array <code>nums</code> is the bitwise AND of all integers in <code>nums</code>.</p>
 
 <ul>
 	<li>For example, for <code>nums = [1, 5, 3]</code>, the bitwise AND is equal to <code>1 &amp; 5 &amp; 3 = 1</code>.</li>
