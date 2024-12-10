@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3451-string-compression-iii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
