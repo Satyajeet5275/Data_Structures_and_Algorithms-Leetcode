@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2846-robot-collisions) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2846-robot-collisions) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Satyajeet5275/Data-Structures-and-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
