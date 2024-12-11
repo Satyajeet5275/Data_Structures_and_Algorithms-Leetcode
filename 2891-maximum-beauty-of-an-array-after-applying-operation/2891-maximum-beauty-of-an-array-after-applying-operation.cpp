@@ -1,23 +1,36 @@
-#include <vector>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
-    int maximumBeauty(vector<int>& nums, int k) {
-        // Step 1: Sort the array
-        sort(nums.begin(), nums.end());
-
-        int n = nums.size();
-        int maxBeauty = 1; // Variable to track the maximum size of a valid subsequence
-
-        // Step 2: Iterate through each element
-        for (int i = 0; i < n; i++) {
-            // Find the upper bound index where nums[j] > nums[i] + 2 * k
+    bool check(int mid,vector<int>& nums, int k){
+        for(int i=0;i<nums.size();i++){
+            int count=0;
+            // for(int j=i;j<nums.size();j++){
+                // if((nums[j]-nums[i])<=2*k){
+                //     count++;
+                // }
+                // else break;
+            // }
             auto ub = upper_bound(nums.begin(), nums.end(), nums[i] + 2 * k);
-            // Update maxBeauty with the size of the current valid subsequence
-            maxBeauty = max(maxBeauty, static_cast<int>(ub - (nums.begin() + i)));
+            
+            count = static_cast<int>(ub - (nums.begin() + i));
+            
+            if(count>=mid) return true;
         }
-        return maxBeauty; // Return the maximum valid subsequence size
+        return false;
+    }
+    int maximumBeauty(vector<int>& nums, int k) {
+        int n=nums.size();
+        int low=1,high=n,ans=1;
+        sort(nums.begin(),nums.end());
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(check(mid,nums,k)){
+                low=mid+1;
+                ans=max(ans,mid);
+            }
+            else{
+                high=mid-1;
+            }
+        }
+        return ans;
     }
 };
