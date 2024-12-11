@@ -21,16 +21,22 @@ public:
         int n=nums.size();
         int low=1,high=n,ans=1;
         sort(nums.begin(),nums.end());
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(check(mid,nums,k)){
-                low=mid+1;
-                ans=max(ans,mid);
-            }
-            else{
-                high=mid-1;
-            }
+        // while(low<=high){
+        //     int mid=low+(high-low)/2;
+        //     if(check(mid,nums,k)){
+        //         low=mid+1;
+        //         ans=max(ans,mid);
+        //     }
+        //     else{
+        //         high=mid-1;
+        //     }
+        // }
+        int maxi=1;
+          for(int i=0;i<nums.size();i++){
+            int count=0;
+            auto ub = upper_bound(nums.begin(), nums.end(), nums[i] + 2 * k);
+            maxi = max(maxi,static_cast<int>(ub - (nums.begin() + i)));
         }
-        return ans;
+        return maxi;
     }
 };
